@@ -1,0 +1,15 @@
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\bin\Debug\net8.0\DecisionMaking.exe
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\bin\Debug\net8.0\DecisionMaking.deps.json
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\bin\Debug\net8.0\DecisionMaking.runtimeconfig.json
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\bin\Debug\net8.0\DecisionMaking.dll
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\bin\Debug\net8.0\DecisionMaking.pdb
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\obj\Debug\net8.0\DecisionMaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\obj\Debug\net8.0\DecisionMaking.AssemblyInfoInputs.cache
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\obj\Debug\net8.0\DecisionMaking.AssemblyInfo.cs
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\obj\Debug\net8.0\DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\obj\Debug\net8.0\DecisionMaking.sourcelink.json
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\obj\Debug\net8.0\DecisionMaking.dll
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\obj\Debug\net8.0\refint\DecisionMaking.dll
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\obj\Debug\net8.0\DecisionMaking.pdb
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\obj\Debug\net8.0\DecisionMaking.genruntimeconfig.cache
+C:\Users\safad\DOTNET\DecisionMaking\DecisionMaking\obj\Debug\net8.0\ref\DecisionMaking.dll
