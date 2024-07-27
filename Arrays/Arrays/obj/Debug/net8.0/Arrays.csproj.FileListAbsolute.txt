@@ -1,0 +1,15 @@
+C:\Users\safad\DOTNET\Arrays\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\safad\DOTNET\Arrays\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\safad\DOTNET\Arrays\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\safad\DOTNET\Arrays\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\safad\DOTNET\Arrays\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\safad\DOTNET\Arrays\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safad\DOTNET\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\safad\DOTNET\Arrays\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\safad\DOTNET\Arrays\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\safad\DOTNET\Arrays\Arrays\obj\Debug\net8.0\Arrays.sourcelink.json
+C:\Users\safad\DOTNET\Arrays\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\safad\DOTNET\Arrays\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\safad\DOTNET\Arrays\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\safad\DOTNET\Arrays\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\safad\DOTNET\Arrays\Arrays\obj\Debug\net8.0\ref\Arrays.dll
