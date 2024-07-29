@@ -1,0 +1,15 @@
+C:\Users\safad\DOTNET\ForLoops\ForLoops\bin\Debug\net8.0\ForLoops.exe
+C:\Users\safad\DOTNET\ForLoops\ForLoops\bin\Debug\net8.0\ForLoops.deps.json
+C:\Users\safad\DOTNET\ForLoops\ForLoops\bin\Debug\net8.0\ForLoops.runtimeconfig.json
+C:\Users\safad\DOTNET\ForLoops\ForLoops\bin\Debug\net8.0\ForLoops.dll
+C:\Users\safad\DOTNET\ForLoops\ForLoops\bin\Debug\net8.0\ForLoops.pdb
+C:\Users\safad\DOTNET\ForLoops\ForLoops\obj\Debug\net8.0\ForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safad\DOTNET\ForLoops\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfoInputs.cache
+C:\Users\safad\DOTNET\ForLoops\ForLoops\obj\Debug\net8.0\ForLoops.AssemblyInfo.cs
+C:\Users\safad\DOTNET\ForLoops\ForLoops\obj\Debug\net8.0\ForLoops.csproj.CoreCompileInputs.cache
+C:\Users\safad\DOTNET\ForLoops\ForLoops\obj\Debug\net8.0\ForLoops.sourcelink.json
+C:\Users\safad\DOTNET\ForLoops\ForLoops\obj\Debug\net8.0\ForLoops.dll
+C:\Users\safad\DOTNET\ForLoops\ForLoops\obj\Debug\net8.0\refint\ForLoops.dll
+C:\Users\safad\DOTNET\ForLoops\ForLoops\obj\Debug\net8.0\ForLoops.pdb
+C:\Users\safad\DOTNET\ForLoops\ForLoops\obj\Debug\net8.0\ForLoops.genruntimeconfig.cache
+C:\Users\safad\DOTNET\ForLoops\ForLoops\obj\Debug\net8.0\ref\ForLoops.dll
