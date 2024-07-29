@@ -1,0 +1,15 @@
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.exe
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.deps.json
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.runtimeconfig.json
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.dll
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\bin\Debug\net8.0\AccessModifiers.pdb
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfoInputs.cache
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.AssemblyInfo.cs
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.sourcelink.json
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.dll
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\refint\AccessModifiers.dll
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.pdb
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\AccessModifiers.genruntimeconfig.cache
+C:\Users\safad\DOTNET\C#\AccessModifiers\AccessModifiers\obj\Debug\net8.0\ref\AccessModifiers.dll
