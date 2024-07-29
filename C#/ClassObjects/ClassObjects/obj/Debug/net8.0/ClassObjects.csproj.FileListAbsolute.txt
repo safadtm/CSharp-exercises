@@ -1,0 +1,15 @@
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\bin\Debug\net8.0\ClassObjects.exe
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\bin\Debug\net8.0\ClassObjects.deps.json
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\bin\Debug\net8.0\ClassObjects.runtimeconfig.json
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\bin\Debug\net8.0\ClassObjects.dll
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\bin\Debug\net8.0\ClassObjects.pdb
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\obj\Debug\net8.0\ClassObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\obj\Debug\net8.0\ClassObjects.AssemblyInfoInputs.cache
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\obj\Debug\net8.0\ClassObjects.AssemblyInfo.cs
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\obj\Debug\net8.0\ClassObjects.csproj.CoreCompileInputs.cache
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\obj\Debug\net8.0\ClassObjects.sourcelink.json
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\obj\Debug\net8.0\ClassObjects.dll
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\obj\Debug\net8.0\refint\ClassObjects.dll
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\obj\Debug\net8.0\ClassObjects.pdb
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\obj\Debug\net8.0\ClassObjects.genruntimeconfig.cache
+C:\Users\safad\DOTNET\C#\ClassObjects\ClassObjects\obj\Debug\net8.0\ref\ClassObjects.dll
