@@ -9,5 +9,11 @@ namespace ClassObjects
     public class Fruit
     {
         public string color;
+        public string name;
+
+        public void DisplayName()
+        {
+            Console.WriteLine(name);
+        }
     }
 }

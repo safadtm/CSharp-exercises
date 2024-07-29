@@ -13,10 +13,14 @@
 
             Fruit apple =  new Fruit();
             apple.color = "Red";
+            apple.name = "Apple";
+            apple.DisplayName();
             Console.WriteLine(apple.color);
 
             Fruit  orange=new Fruit();
             orange.color = "Orange";
+            orange.name = "Orange";
+            orange.DisplayName();
             Console.WriteLine(orange.color);
 
 
