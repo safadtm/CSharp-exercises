@@ -1,0 +1,15 @@
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\bin\Debug\net8.0\WhileDoWhile.exe
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\bin\Debug\net8.0\WhileDoWhile.deps.json
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\bin\Debug\net8.0\WhileDoWhile.runtimeconfig.json
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\bin\Debug\net8.0\WhileDoWhile.dll
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\bin\Debug\net8.0\WhileDoWhile.pdb
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.AssemblyInfoInputs.cache
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.AssemblyInfo.cs
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.sourcelink.json
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.dll
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\refint\WhileDoWhile.dll
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.pdb
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\WhileDoWhile.genruntimeconfig.cache
+C:\Users\safad\DOTNET\WhileDoWhile\WhileDoWhile\obj\Debug\net8.0\ref\WhileDoWhile.dll
