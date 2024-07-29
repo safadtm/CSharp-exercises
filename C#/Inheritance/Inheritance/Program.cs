@@ -9,8 +9,10 @@
             * Inheritance
             */
 
-            Andriod andriod = new Andriod();    
+            Andriod andriod = new Andriod();
+            andriod.os = "ios";
             andriod.MakeCalls();
+            Console.WriteLine(andriod.os);
         }
 
     }
