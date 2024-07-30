@@ -1,0 +1,15 @@
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\bin\Debug\net8.0\GetterSetter.exe
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\bin\Debug\net8.0\GetterSetter.deps.json
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\bin\Debug\net8.0\GetterSetter.runtimeconfig.json
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\bin\Debug\net8.0\GetterSetter.dll
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\bin\Debug\net8.0\GetterSetter.pdb
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\obj\Debug\net8.0\GetterSetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\obj\Debug\net8.0\GetterSetter.AssemblyInfoInputs.cache
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\obj\Debug\net8.0\GetterSetter.AssemblyInfo.cs
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\obj\Debug\net8.0\GetterSetter.csproj.CoreCompileInputs.cache
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\obj\Debug\net8.0\GetterSetter.sourcelink.json
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\obj\Debug\net8.0\GetterSetter.dll
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\obj\Debug\net8.0\refint\GetterSetter.dll
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\obj\Debug\net8.0\GetterSetter.pdb
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\obj\Debug\net8.0\GetterSetter.genruntimeconfig.cache
+C:\Users\safad\DOTNET\C#\GetterSetter\GetterSetter\obj\Debug\net8.0\ref\GetterSetter.dll
