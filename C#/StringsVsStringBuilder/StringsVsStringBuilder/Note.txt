@@ -1,0 +1,16 @@
+C# - Strings Vs String Builder
+
+Strings
+
+String type is immutable. It means a string cannot be changed once created
+
+When you modify a string it creates a copy.
+
+String Builder
+
+StringBuilder is mutable.
+
+StringBuilder performs faster than string when appending multiple string values.
+
+The StringBuilder doesn't create a new object in the memory but dynamically
+expands memory to accommodate the modified string.

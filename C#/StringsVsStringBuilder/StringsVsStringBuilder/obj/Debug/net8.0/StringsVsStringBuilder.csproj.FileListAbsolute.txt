@@ -1,0 +1,15 @@
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\bin\Debug\net8.0\StringsVsStringBuilder.exe
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\bin\Debug\net8.0\StringsVsStringBuilder.deps.json
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\bin\Debug\net8.0\StringsVsStringBuilder.runtimeconfig.json
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\bin\Debug\net8.0\StringsVsStringBuilder.dll
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\bin\Debug\net8.0\StringsVsStringBuilder.pdb
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\obj\Debug\net8.0\StringsVsStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\obj\Debug\net8.0\StringsVsStringBuilder.AssemblyInfoInputs.cache
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\obj\Debug\net8.0\StringsVsStringBuilder.AssemblyInfo.cs
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\obj\Debug\net8.0\StringsVsStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\obj\Debug\net8.0\StringsVsStringBuilder.sourcelink.json
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\obj\Debug\net8.0\StringsVsStringBuilder.dll
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\obj\Debug\net8.0\refint\StringsVsStringBuilder.dll
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\obj\Debug\net8.0\StringsVsStringBuilder.pdb
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\obj\Debug\net8.0\StringsVsStringBuilder.genruntimeconfig.cache
+C:\Users\safad\DOTNET\C#\StringsVsStringBuilder\StringsVsStringBuilder\obj\Debug\net8.0\ref\StringsVsStringBuilder.dll
