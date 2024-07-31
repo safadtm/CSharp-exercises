@@ -1,0 +1,15 @@
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\bin\Debug\net8.0\IEnumerableVSIEnumerator.exe
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\bin\Debug\net8.0\IEnumerableVSIEnumerator.deps.json
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\bin\Debug\net8.0\IEnumerableVSIEnumerator.runtimeconfig.json
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\bin\Debug\net8.0\IEnumerableVSIEnumerator.dll
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\bin\Debug\net8.0\IEnumerableVSIEnumerator.pdb
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\obj\Debug\net8.0\IEnumerableVSIEnumerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\obj\Debug\net8.0\IEnumerableVSIEnumerator.AssemblyInfoInputs.cache
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\obj\Debug\net8.0\IEnumerableVSIEnumerator.AssemblyInfo.cs
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\obj\Debug\net8.0\IEnumerableVSIEnumerator.csproj.CoreCompileInputs.cache
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\obj\Debug\net8.0\IEnumerableVSIEnumerator.sourcelink.json
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\obj\Debug\net8.0\IEnumerableVSIEnumerator.dll
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\obj\Debug\net8.0\refint\IEnumerableVSIEnumerator.dll
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\obj\Debug\net8.0\IEnumerableVSIEnumerator.pdb
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\obj\Debug\net8.0\IEnumerableVSIEnumerator.genruntimeconfig.cache
+C:\Users\safad\DOTNET\C#\IEnumerableVSIEnumerator\IEnumerableVSIEnumerator\obj\Debug\net8.0\ref\IEnumerableVSIEnumerator.dll
