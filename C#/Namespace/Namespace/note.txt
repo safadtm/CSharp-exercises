@@ -1,0 +1,18 @@
+C# - Namespaces
+
+A namespace is designed for providing a way to keep one set of names separate from another.
+The class names declared in one namespace does not conflict with the same
+class names declared in another.
+
+Syntax for namespace
+
+namespace namespace_name {
+   // class or other declarations
+}
+
+// accessing namespaces
+namespace_name.class_name;
+
+The using Keyword
+
+The using keyword states that the program is using the names in the given namespace.

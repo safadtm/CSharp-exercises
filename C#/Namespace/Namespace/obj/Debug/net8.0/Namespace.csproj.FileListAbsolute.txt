@@ -1,0 +1,15 @@
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\bin\Debug\net8.0\Namespace.exe
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\bin\Debug\net8.0\Namespace.deps.json
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\bin\Debug\net8.0\Namespace.runtimeconfig.json
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\bin\Debug\net8.0\Namespace.dll
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\bin\Debug\net8.0\Namespace.pdb
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.AssemblyInfoInputs.cache
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.AssemblyInfo.cs
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.csproj.CoreCompileInputs.cache
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.sourcelink.json
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.dll
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\obj\Debug\net8.0\refint\Namespace.dll
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.pdb
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\obj\Debug\net8.0\Namespace.genruntimeconfig.cache
+C:\Users\safad\DOTNET\C#\Namespace\Namespace\obj\Debug\net8.0\ref\Namespace.dll
