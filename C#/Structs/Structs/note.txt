@@ -1,0 +1,8 @@
+C# - Struct
+
+1. Struct is value data type
+2. We can use it to hold related data of various data types
+3. `struct` keyword is used to create a struct
+4. struct can contain methods
+5. it cannot inherit from other struct or classes
+6. It can contain parameterized constructor.
